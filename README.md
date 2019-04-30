@@ -38,6 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### About Me
- I am now an undergraduate at Department of [EE](http://ee.sjtu.edu.cn/EN/Default.aspx) Shanghai Jiao Tong University (SJTU).
+ I am now an undergraduate at Department of [EE](http://ee.sjtu.edu.cn/EN/Default.aspx), Shanghai Jiao Tong University (SJTU).
+ 
  I am currently a research assistant in AI300 LAB at Shanghai Jiao Tong University, advised by Prof. [Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl=zh-CN). 
+ 
 My research interests lie in the general area of computer vision and machine learning.
