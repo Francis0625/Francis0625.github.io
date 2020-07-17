@@ -4,13 +4,11 @@
 Hi, welcome to Hang Wang’s website. 
 
 ### About Me
- I am a master candidate at Department of [EE](http://ee.sjtu.edu.cn/EN/Default.aspx) @ [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I major in Information Engineering.
+ I am a master candidate at Department of [E.E.](http://ee.sjtu.edu.cn/EN/Default.aspx) @ [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I major in Information Engineering.
  
- I am currently a research assistant in [SJTU Vision and Learning Lab](https://www.ai300.org/) advised by Prof. [Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl=zh-CN). 
+ I am currently a research assistant in [SJTU Vision and Learning Lab](https://www.ai300.org/) advised by Prof.[Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl). 
  
 My research interests lie in the general area of computer vision and machine learning, particular in visual recognition, representation learning and transfer learning.
-
-
 
 ### Publication
 
@@ -26,7 +24,7 @@ My research interests lie in the general area of computer vision and machine lea
 
    **Hang Wang**, Minghao Xu, Bingbing Ni, Wenjun Zhang
 
-  _**ECCV 2020 (poster)**_ Paper and code is coming soon!
+  _**ECCV 2020 (poster)**_ Paper and code are coming soon!
 
 * **mmHandover: a pre-connection based handover protocol for 5G millimeter wave vehicular networks**
 
