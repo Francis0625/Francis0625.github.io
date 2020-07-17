@@ -1,4 +1,4 @@
-## Hang Wang
+### Hang Wang
 
 ### Welcome
 Hi, welcome to Hang Wang’s website. 
