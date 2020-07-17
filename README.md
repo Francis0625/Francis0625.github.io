@@ -4,7 +4,9 @@
 Hi, welcome to Hang Wang’s website. 
 
 ### About Me
- I am a master candidate at Department of [E.E.](http://ee.sjtu.edu.cn/EN/Default.aspx) @ [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I major in Information Engineering.
+ I am a master candidate at Department of [E.E.](http://ee.sjtu.edu.cn/EN/Default.aspx) @ [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). 
+ 
+ I major in Information Engineering.
  
  I am currently a research assistant in [SJTU Vision and Learning Lab](https://www.ai300.org/) advised by Prof.[Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl). 
  
