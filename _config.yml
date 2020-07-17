@@ -44,14 +44,14 @@ plainwhite:
     # - username: jekyll2
     #   instance: example.com
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+# # If you want to link only specific pages in your header, uncomment
+# # this and add the path to the pages in order as they should show up
+# #header_pages:
+# # - about.md
 
-# Build settings
-theme: plainwhite
+# # Build settings
+# theme: plainwhite
 
-plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+# plugins:
+#   - jekyll-seo-tag
+# #  - jekyll-feed
