@@ -26,7 +26,7 @@ My research interests lie in the general area of computer vision and machine lea
 
    **Hang Wang**, Minghao Xu, Bingbing Ni, Wenjun Zhang
 
-  _**ECCV 2020 (poster)**_ Paper and code are coming soon!
+  _**ECCV 2020 (poster)**_ [[Paper(arxiv)]](https://arxiv.org/pdf/2007.08801.pdf) [[Code]](https://github.com/ChrisAllenMing/LtC-MSDA)
 
 * **mmHandover: a pre-connection based handover protocol for 5G millimeter wave vehicular networks**
 
