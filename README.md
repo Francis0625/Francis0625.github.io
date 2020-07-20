@@ -14,7 +14,7 @@ My research interests lie in the general area of computer vision and machine lea
 
 ### Publication
 
-[Google shcolar](https://www.ai300.org/)
+[Google shcolar](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)
 
 * **Cross-domain Detection via Graph-induced Prototype Alignment**
 
