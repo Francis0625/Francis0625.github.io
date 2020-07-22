@@ -12,9 +12,11 @@ Hi, welcome to Hang Wang’s website.
  
 My research interests lie in the general area of computer vision and machine learning, particular in visual recognition, representation learning and transfer learning.
 
+More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)  &nbsp; [[LinkedIn]](https://www.linkedin.cn/in/%E8%88%AA-%E7%8E%8B-771a09168/) &nbsp;  [[Kaggle]](https://www.kaggle.com/sjtuwh)
+
 ### Publication
 
-[Google shcolar](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)
+
 
 * **Cross-domain Detection via Graph-induced Prototype Alignment**
 
