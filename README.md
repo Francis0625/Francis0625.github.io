@@ -14,9 +14,9 @@ My research interests lie in the general area of computer vision and machine lea
 
 More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)  &nbsp; [[LinkedIn]](https://www.linkedin.cn/in/%E8%88%AA-%E7%8E%8B-771a09168/) &nbsp;  [[Kaggle]](https://www.kaggle.com/sjtuwh)
 
+Here is my CV: [[CV (EN)]](CV_EN.pdf), [[CV (中文)]](CV_CN.pdf).
+
 ### Publication
-
-
 
 * **Cross-domain Detection via Graph-induced Prototype Alignment**
 
