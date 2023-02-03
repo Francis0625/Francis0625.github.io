@@ -8,7 +8,7 @@ Hi, welcome to Hang Wang’s website.
  
  Before I joined Huawei, I obtained my bachelor and  master degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of Prof.[Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl). 
 
-More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)  &nbsp; [[LinkedIn]](https://www.linkedin.cn/in/%E8%88%AA-%E7%8E%8B-771a09168/) &nbsp;  [[Kaggle]](https://www.kaggle.com/sjtuwh) [[Email]](francis970625@gmail.com)
+More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r8UKYQYAAAAJ&hl)  &nbsp; [[LinkedIn]](https://www.linkedin.cn/in/%E8%88%AA-%E7%8E%8B-771a09168/) &nbsp;  [[Kaggle]](https://www.kaggle.com/sjtuwh)  &nbsp; [[Email]](francis970625@gmail.com)
 
 If you are self-motivated, and interested in low-level vision, feel free to reach out (with your resume) for collaborations.
 
