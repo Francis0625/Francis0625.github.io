@@ -1,8 +1,6 @@
 ### Hang Wang
 
 
-Hi, welcome to Hang Wang’s website. 
-
 ### About Me
 I am currently a researcher at Huawei Inc. I obtained my bachelor and  master degree from [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), under the supervision of Prof.[Bingbing Ni](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl). 
 
