@@ -1,6 +1,6 @@
 ### Hang Wang
 
-### Welcome
+
 Hi, welcome to Hang Wang’s website. 
 
 ### About Me
@@ -22,7 +22,7 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
   Minghao Xu, **Hang Wang***, Bingbing Ni
 
-  _**TPAMI**_ [[Paper]](https://arxiv.org/pdf/2104.13057.pdf) [[Code]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
+  _**TPAMI 2022**_ [[Paper]](https://arxiv.org/pdf/2104.13057.pdf) [[Code]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
   
 
 #### Conference
