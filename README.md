@@ -17,6 +17,45 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 Here is my CV: [[CV (EN)]](CV_EN.pdf), [[CV (中文)]](CV_CN.pdf).
 
 ### Publication
+#### jarnoy
+
+#### Conference
+
+
+* **Graphical Modeling for Multi-Source Domain Adaptation**
+
+  Minghao Xu, **Hang Wang***, Bingbing Ni
+
+  _**TPAMI**_ [[Paper]](https://arxiv.org/pdf/2104.13057.pdf) [[Code]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
+  
+
+* **PAC-Net: Highlight Your Video via History Preference Modeling**
+
+  **Hang Wang**, Penghao Zhou, Chong Zhou, Zhao Zhang, and Xing Sun
+
+  _**ECCV 2022**_ [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940602.pdf) 
+  
+
+* **Self-supervised Graph-level Representation Learning with Local and Global Structure**
+
+  Minghao Xu, **Hang Wang**, Bingbing Ni, Hongyu Guo, Jian Tang
+
+  _**ICML 2021**_ [[Paper]](http://proceedings.mlr.press/v139/xu21g/xu21g.pdf) 
+  
+  
+* **Cross-category video highlight detection via set-based learning**
+
+  Minghao Xu, **Hang Wang**, Bingbing Ni, Riheng Zhu, Zhenbang Sun, Changhu Wang
+
+  _**ICCV 2021**_ [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Cross-Category_Video_Highlight_Detection_via_Set-Based_Learning_ICCV_2021_paper.pdf) 
+  
+  
+* **Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation**
+
+  **Hang Wang**, Minghao Xu, Bingbing Ni, Wenjun Zhang
+
+  _**ECCV 2020**_ [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530715.pdf) [[Code]](https://github.com/ChrisAllenMing/LtC-MSDA)
+
 
 * **Cross-domain Detection via Graph-induced Prototype Alignment**
 
@@ -24,11 +63,6 @@ Here is my CV: [[CV (EN)]](CV_EN.pdf), [[CV (中文)]](CV_CN.pdf).
 
   _**CVPR 2020 (oral)**_ [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Cross-Domain_Detection_via_Graph-Induced_Prototype_Alignment_CVPR_2020_paper.pdf) [[Code]](https://github.com/ChrisAllenMing/GPA-detection)
   
-* **Learning to Combine: Knowledge Aggregation for Multi-Source Domain Adaptation**
-
-   **Hang Wang**, Minghao Xu, Bingbing Ni, Wenjun Zhang
-
-  _**ECCV 2020 (poster)**_ [[Paper(arxiv)]](https://arxiv.org/pdf/2007.08801.pdf) [[Code]](https://github.com/ChrisAllenMing/LtC-MSDA)
 
 * **mmHandover: a pre-connection based handover protocol for 5G millimeter wave vehicular networks**
 
