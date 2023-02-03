@@ -17,10 +17,8 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 Here is my CV: [[CV (EN)]](CV_EN.pdf), [[CV (中文)]](CV_CN.pdf).
 
 ### Publication
-#### jarnoy
 
-#### Conference
-
+#### Journal
 
 * **Graphical Modeling for Multi-Source Domain Adaptation**
 
@@ -28,6 +26,8 @@ Here is my CV: [[CV (EN)]](CV_EN.pdf), [[CV (中文)]](CV_CN.pdf).
 
   _**TPAMI**_ [[Paper]](https://arxiv.org/pdf/2104.13057.pdf) [[Code]](https://github.com/Francis0625/Graphical-Modeling-for-Multi-Source-Domain-Adaptation)
   
+
+#### Conference
 
 * **PAC-Net: Highlight Your Video via History Preference Modeling**
 
