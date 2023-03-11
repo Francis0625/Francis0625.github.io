@@ -25,11 +25,18 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
 #### Conference
 
+* **Omni Aggregation Networks for Lightweight Image Super-Resolution**
+
+  **Hang Wang**, Xuanhong Chen, Bingbing Ni, Yutian Liu, JInfan Liu
+
+  _**CVPR 2023**_ [[Paper]]() [[Code]](https://github.com/Francis0625/Omni-SR)
+  
+
 * **Learning Continuous Depth Representation via Geometric Spatial Aggregator**
 
   Xiaohang Wang, Xuanhong Chen, Bingbing Ni, Zhengyan Tong, **Hang Wang**
 
-  _**AAAI 2023**_ [[Paper]](https://arxiv.org/pdf/2212.03499.pdf)) [[Code]](https://github.com/nana01219/GeoDSR)
+  _**AAAI 2023**_ [[Paper]](https://arxiv.org/pdf/2212.03499.pdf) [[Code]](https://github.com/nana01219/GeoDSR)
   
   	
 * **OCR-Pose: Occlusion-aware Contrastive Representation for Unsupervised 3D Human Pose Estimation**
