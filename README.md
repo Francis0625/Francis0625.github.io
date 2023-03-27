@@ -16,6 +16,13 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
 #### Journal
 
+* **Learning by Restoring Broken 3D Geometry**
+
+  Jinxian Liu, Bingbing Ni, Ye Chen, Zhenbo Yu, **Hang Wang**,
+
+  _**TPAMI 2023**_ 
+  
+  
 * **Graphical Modeling for Multi-Source Domain Adaptation**
 
   Minghao Xu*, **Hang Wang***, Bingbing Ni
@@ -27,7 +34,7 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
 * **Omni Aggregation Networks for Lightweight Image Super-Resolution**
 
-  **Hang Wang**, Xuanhong Chen, Bingbing Ni, Yutian Liu, JInfan Liu
+  **Hang Wang**, Xuanhong Chen, Bingbing Ni, Yutian Liu, Jinfan Liu
 
   _**CVPR 2023**_ [[Paper]]() [[Code]](https://github.com/Francis0625/Omni-SR)
   
