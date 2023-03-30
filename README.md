@@ -69,7 +69,7 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
   
 * **X-volution: On the Unification of Convolution and Self-attention**
 
-  Xuanhong Chen, **Hang Wang***, Bingbing Ni
+  Xuanhong Chen*, **Hang Wang***, Bingbing Ni
 
   _**Arxiv**_ [[Paper]](https://arxiv.org/pdf/2106.02253.pdf) 
   
@@ -96,7 +96,7 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
 * **Shape Self-Correction for Unsupervised Point Cloud Understanding**
 
-  Ye Chen, Jinxian Liu, Bingbing Ni, Hang Wang, Jiancheng Yang, Ning Liu, Teng Li, Qi Tian
+  Ye Chen, Jinxian Liu, Bingbing Ni, **Hang Wang**, Jiancheng Yang, Ning Liu, Teng Li, Qi Tian
   
   _**ICCV 2021**_ [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf)
   
