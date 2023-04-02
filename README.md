@@ -38,6 +38,12 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
   _**CVPR 2023**_ [[Paper]]() [[Code]](https://github.com/Francis0625/Omni-SR)
   
+* **Deep Arbitrary-Scale Image Super-Resolution via Scale-Equivariance Pursuit**
+
+  Xiaohang Wang, Xuanhong Chen, Bingbing Ni, **Hang Wang**, Zhengyan Tong, Yutian Liu
+
+  _**CVPR 2023**_ [[Paper]]() [[Code]](https://github.com/neuralchen/EQSR)
+  
 
 * **Learning Continuous Depth Representation via Geometric Spatial Aggregator**
 
