@@ -36,7 +36,7 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
   **Hang Wang**, Xuanhong Chen, Bingbing Ni, Yutian Liu, Jinfan Liu
 
-  _**CVPR 2023**_ [[Paper]]() [[Code]](https://github.com/Francis0625/Omni-SR)
+  _**CVPR 2023**_ [[Paper]](https://arxiv.org/pdf/2304.10244.pdf) [[Code]](https://github.com/Francis0625/Omni-SR)
   
 * **Deep Arbitrary-Scale Image Super-Resolution via Scale-Equivariance Pursuit**
 
