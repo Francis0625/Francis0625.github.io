@@ -16,9 +16,15 @@ More information: [[Google Shcolar]](https://scholar.google.com/citations?user=r
 
 #### Journal
 
+* **SimSwap++: Towards Faster and High-Quality Identity Swapping**
+
+  Xuanhong Chen, Bingbing Ni, Yutian Liu, Naiyuan Liu, Zhilin Zeng, **Hang Wang**
+
+  _**TPAMI 2023**_ 
+
 * **Learning by Restoring Broken 3D Geometry**
 
-  Jinxian Liu, Bingbing Ni, Ye Chen, Zhenbo Yu, **Hang Wang**,
+  Jinxian Liu, Bingbing Ni, Ye Chen, Zhenbo Yu, **Hang Wang**
 
   _**TPAMI 2023**_ 
   
